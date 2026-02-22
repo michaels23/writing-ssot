@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@atproto/api": "^0.18.21",
     "axios": "^1.13.5",
     "gray-matter": "^4.0.3",
     "turndown": "^7.2.2"
